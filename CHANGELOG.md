@@ -1,3 +1,8 @@
+## v1.1.0
+
+* Upgrade to Bootstrap Colorpicker v2.5.1
+* Remove deprecated css.scss
+
 ## v1.0.2
 
 * Minor documentation corrections.
